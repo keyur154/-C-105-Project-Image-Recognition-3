@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(#01f7ff 0%, #e703fc 100%);
+}
+
+.heading{
+   width: 80%;
+   font-size: 22px;
+}
+
+.name_of_members{
+    color: green;
+    font-size: 20px;
+    font-family: unset;
+}
+
+label{
+    color: rgb(255, 72, 0);
+    font-size: 20px;
+}
+
+#camera{
+    border: 2px dashed rgb(0, 255, 21);
+    width: 350px;
+    height: 300px;
+}
+
+#result_member_name{
+    color: chartreuse;
+}
+
+#result_member_accuracy{
+    color: cyan;
+}
